@@ -1,5 +1,7 @@
 ### Olá meu nome é Adriano Jose Volter 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianovolter/) [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+
 <!--
 **AdrianoVolter/AdrianoVolter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
