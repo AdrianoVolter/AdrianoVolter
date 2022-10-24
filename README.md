@@ -14,7 +14,7 @@ __Meu Portfóio__[![]()]() -->[![Portifolio](https://img.shields.io/website-up-d
 ![Adriano Volter GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVolter&show_icons=true&theme=blue-green)
 
 ### Tecnologias que estou estudando e usando.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVolter)](https://github.com/AdrianoVolter/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVolter&theme=blue-green)](https://github.com/AdrianoVolter/github-readme-stats)
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) [![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
