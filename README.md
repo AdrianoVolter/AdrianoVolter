@@ -11,7 +11,7 @@ Começando no mundo da programação .
 ***
 __Meu Portfóio__[![]()]() -->[![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://adrianovolter.github.io/certifi-card/ ) 
 ***
-![Adriano Volter GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVolter&show_icons=true&theme=blue-green)
+![Adriano Volter GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVoltr&show_icons=true&theme=blue-green)
 
 ### Tecnologias que estou estudando e usando.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVolter&theme=blue-green)](https://github.com/AdrianoVolter/github-readme-stats)
