@@ -1,7 +1,7 @@
 ### Olá meu nome é __*Adriano Jose Volter*__ 👋.
 ****
 Começando no mundo da programação .
-## 🚀 Let's code! 🚀 !!
+## 🚀 Let's code! 🚀 !! <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianovolter&color=blue" alt="Profile views" /> </p>
 
 
 
