@@ -1,6 +1,6 @@
 ### Olá meu nome é __*Adriano Jose Volter*__ 👋.
 ****
-Começando no mundo da programação .
+Desenvolvedor FullStack em formação .
 ## 🚀 Let's code! 🚀 !! <p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianovolter&color=red" alt="Profile views" /> </p>
 
 
