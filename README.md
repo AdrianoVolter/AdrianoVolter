@@ -5,10 +5,22 @@ Desenvolvedor FullStack em formação .
 ### Tecnologias que estou estudando e usando.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVolter&theme=blue-green)](https://github.com/AdrianoVolter/github-readme-stats) 
 ****
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,bash" />
+  </a>
+</p>
 
+****
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github" />
+  </a>
+</p>
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,bash)
 ****
-![Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github)
-****
-![Skills](https://skillicons.dev/icons?i=vite,netlify,discord,codepen)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen" />
+  </a>
+</p>
