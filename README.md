@@ -21,6 +21,6 @@ Desenvolvedor FullStack em formação .
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen" />
+    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,githubactions" />
   </a>
 </p>
