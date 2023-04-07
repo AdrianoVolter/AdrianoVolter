@@ -9,4 +9,4 @@ Desenvolvedor FullStack em formação .
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python)
 ****
-![Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github,vite,netlify)
+![Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github,vite,netlify,discord,)
