@@ -7,7 +7,7 @@ Desenvolvedor FullStack em formação .
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,bash,md" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,bash,md,express" />
   </a>
 </p>
 
