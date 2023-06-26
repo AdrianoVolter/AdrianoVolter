@@ -14,7 +14,7 @@ Desenvolvedor FullStack em formação .
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github,sequelize" />
   </a>
 </p>
 
