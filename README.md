@@ -5,7 +5,10 @@
 #### <li>Desenvolvedor FullStack em formação .
 
 ### Tecnologias que estou estudando e usando.
-
+ <div align="center">
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovolter&langs_count=10&layout=compact&theme=radical"/> 
+</div>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,postgresql,md,python,bash," />
