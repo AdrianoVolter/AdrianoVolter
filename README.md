@@ -1,8 +1,7 @@
 ### Olá meu nome é __*Adriano Jose Volter*__ 👋.<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianovolter&color=red" alt="Profile views" /> ![follow](https://img.shields.io/github/followers/adrianovolter.svg?style=social&label=Follow&maxAge=2592000) </p> 
 ****
 
-#### <li>Desenvolvedor Front-End jr .
-#### <li>Desenvolvedor FullStack em formação .
+#### <li>Desenvolvedor FullStack Jr .
 
 ### Tecnologias que estou estudando e usando.
  <div align="center">
