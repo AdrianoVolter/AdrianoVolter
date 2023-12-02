@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,postgresql,md,python,bash," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,postgresql,md,python,bash,ts" />
   </a>
 </p>
 
@@ -24,6 +24,6 @@
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,githubactions,jest" />
+    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,githubactions,jest,next" />
   </a>
 </p>
