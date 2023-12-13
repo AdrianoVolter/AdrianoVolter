@@ -24,8 +24,8 @@
 - [Projeto 2](https://github.com/AdrianoVolter/Projeto-Reactjs-Portifolio) - Portfólio   usando React js .
 
 ## Contribuições
-- Contribuição para [Projeto M3P-BackEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-BackEnd-Squad1)
-- Colaboração em [Projeto M3P-FrontEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad1)
+- [Projeto M3P-BackEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-BackEnd-Squad1)
+- [Projeto M3P-FrontEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad1)
 
 ## Entre em Contato
 - Email: adriano.j.volter@hotmail.com
