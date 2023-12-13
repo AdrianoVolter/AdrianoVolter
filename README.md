@@ -1,12 +1,36 @@
-### Olá meu nome é __*Adriano Jose Volter*__ 👋 .<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianovolter&color=red" alt="Profile views" /> ![follow](https://img.shields.io/github/followers/adrianovolter.svg?style=social&label=Follow&maxAge=2592000) </p> 
+# 👋 Olá, eu sou Adriano Jose Volter!
+
+## 🚀 Desenvolvedor FullStack Apaixonado por Tecnologia 🚀
+
+![Profile views](https://komarev.com/ghpvc/?username=adrianovolter&color=red)
+![Followers](https://img.shields.io/github/followers/adrianovolter.svg?style=social&label=Follow&maxAge=2592000)
+
+## Tecnologias e Ferramentas
+
+### Principais Habilidades
+- Node.js
+- React.js
+- Postgresql
+- ...
+
+### Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianovolter&show_icons=true&theme=radical)
+
+### Linguagens Mais Utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovolter&langs_count=10&layout=compact&theme=radical)
+
+## Projetos Destacados
+- [Projeto 1](https://github.com/AdrianoVolter/M3P-BackEnd-Squad1) - Sistema de Marketplace para venda de produtos do setor farmacêutico, utilizando Node.Js, Express e Sequelize juntamente com uma estrutura MVC (projeto criado no terceiro módulo do Curso Full Stack).
+- [Projeto 2](https://github.com/AdrianoVolter/M3P-FrontEnd-Squad1) - Front-end construído durante o terceiro módulo do Curso Full Stack utilizando React js .
 
 
-## <li>🚀 Desenvolvedor FullStack Apaixonado por Tecnologia 🚀
+## Entre em Contato
+- Email: adriano.j.volter@hotmail.com
+- LinkedIn: [Adriano Jose Volter](https://www.linkedin.com/in/adrianovolter/)
+
 
 ### Tecnologias que estou estudando e usando.
- <div align="center">
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovolter&langs_count=10&layout=compact&theme=radical"/> 
-</div>
+
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
