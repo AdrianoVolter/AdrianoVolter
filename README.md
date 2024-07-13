@@ -44,13 +44,13 @@
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github,sequelize" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github,sequelize,prisma,sqlite" />
   </a>
 </p>
 
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,githubactions,jest,next" />
+    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,npm,githubactions,jest,next" />
   </a>
 </p>
