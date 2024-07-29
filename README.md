@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Adriano Jose Volter!
 
-## 🚀 Back-End Developer, Apaixonado por Tecnologia 🚀
+## 🚀 Back-End Developer. 
+## Apaixonado por Tecnologia, sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=adrianovolter&color=red)
 ![Followers](https://img.shields.io/github/followers/adrianovolter.svg?style=social&label=Follow&maxAge=2592000)
