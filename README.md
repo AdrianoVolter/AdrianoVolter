@@ -52,6 +52,6 @@
 ****
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,npm,githubactions,jest,next" />
+    <img src="https://skillicons.dev/icons?i=vite,netlify,discord,codepen,npm,githubactions,jest,next,solidity" />
   </a>
 </p>
