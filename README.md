@@ -1,39 +1,38 @@
-# 👋 Olá, eu sou Adriano Jose Volter!
+# 👋 Hello, I'm Adriano Jose Volter!
 
-## 🚀 Back-End Developer. 
-## Apaixonado por Tecnologia, sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades🚀
+## 🚀 Back-End Developer.
+## Passionate about Technology, always seeking new challenges and opportunities to enhance my skills 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=adrianovolter&color=red)
 ![Followers](https://img.shields.io/github/followers/adrianovolter.svg?style=social&label=Follow&maxAge=2592000)
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
-### Principais Habilidades
+### Main Skills
 - Node.js
 - React.js
-- Postgresql
+- PostgreSQL
 - ...
 
-### Estatísticas do GitHub
+### GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianovolter&show_icons=true&theme=radical)
 
-### Linguagens Mais Utilizadas
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovolter&langs_count=10&layout=compact&theme=radical)
 
-## 📌 Projetos Destacados 📌
-- Projeto -1 [Backend](https://github.com/AdrianoVolter/M3P-BackEnd-Squad1) e [Frontend](https://github.com/AdrianoVolter/M3P-FrontEnd-Squad1)- Sistema de Marketplace para venda de produtos do setor farmacêutico, utilizando Node.Js, Express e Sequelize juntamente com uma estrutura MVC, dois Front-end construído  utilizando React js (projeto criado no terceiro módulo do Curso Full Stack).
-- [Projeto 2](https://github.com/AdrianoVolter/Projeto-Reactjs-Portifolio) - Portfólio   usando React js .
+## 📌 Featured Projects 📌
+- Project -1 [Backend](https://github.com/AdrianoVolter/M3P-BackEnd-Squad1) and [Frontend](https://github.com/AdrianoVolter/M3P-FrontEnd-Squad1) - Marketplace system for pharmaceutical products, using Node.js, Express, and Sequelize in an MVC structure, with two React.js front-ends (project created in the third module of the Full Stack Course).
+- [Project 2](https://github.com/AdrianoVolter/Projeto-Reactjs-Portifolio) - Portfolio using React.js.
 
-## 🤝🏾 Contribuições 🤝🏾
-- [Projeto M3P-BackEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-BackEnd-Squad1)
-- [Projeto M3P-FrontEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad1)
+## 🤝🏾 Contributions 🤝🏾
+- [Project M3P-BackEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-BackEnd-Squad1)
+- [Project M3P-FrontEnd-Squad1](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad1)
 
-## Entre em Contato 🔊📲
+## Contact 🔊📲
 - Email: adriano.j.volter@hotmail.com
 - LinkedIn: [Adriano Jose Volter](https://www.linkedin.com/in/adrianovolter/)
 
-
-### ⚒️ Tecnologias que estou estudando e usando.
+### ⚒️ Technologies I'm studying and using.
 
 <br>
 <p align="center">
