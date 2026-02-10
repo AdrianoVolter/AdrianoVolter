@@ -14,11 +14,7 @@
 - Postgresql
 - ...
 
-### Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianovolter&show_icons=true&theme=radical)
 
-### Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovolter&langs_count=10&layout=compact&theme=radical)
 
 ## 📌 Projetos Destacados 📌
 - Projeto -1 [Backend](https://github.com/AdrianoVolter/M3P-BackEnd-Squad1) e [Frontend](https://github.com/AdrianoVolter/M3P-FrontEnd-Squad1)- Sistema de Marketplace para venda de produtos do setor farmacêutico, utilizando Node.Js, Express e Sequelize juntamente com uma estrutura MVC, dois Front-end construído  utilizando React js (projeto criado no terceiro módulo do Curso Full Stack).
